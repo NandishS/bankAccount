@@ -1,4 +1,4 @@
-//martin csc201 
+//martin java
 package edu.nvcc.bank;
 
 import javax.swing.JOptionPane;
