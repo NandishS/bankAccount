@@ -5,7 +5,7 @@ public class Account {
 	private String name;
 	private int acNum;
 	private static int count=0;
-	
+	//it works 
 	public Account(double balance, String name, int acNum) {
 		this.balance = balance;
 		this.name = name;
