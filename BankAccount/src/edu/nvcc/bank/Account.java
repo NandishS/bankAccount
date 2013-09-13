@@ -1,6 +1,6 @@
 package edu.nvcc.bank;
 //Eddie was here
-//Franklin was here
+//Franklin was here too
 public class Account {
 	private double balance;
 	private String name;
